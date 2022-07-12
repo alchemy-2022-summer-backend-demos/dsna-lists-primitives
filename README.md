@@ -14,12 +14,6 @@ partner 2 | `unique-char`
 pair stretch 1 | `equal-sides`
 pair stretch 2 | `happy-numbers`
 
-## Tooling
-
-For today's work, create a github repo and work in VSCode
-
-Let's take a couple of minutes to get your document ready!
-
 ## Strings
 
 String code challenges usually are array challenges and involve changing the string into an array of letters or words (or both).
